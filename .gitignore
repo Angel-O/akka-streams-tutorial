@@ -81,7 +81,8 @@ fabric.properties
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -116,3 +117,5 @@ project/plugins/project/
 .history
 .cache
 .lib/
+
+.idea/
